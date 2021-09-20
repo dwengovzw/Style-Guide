@@ -24,6 +24,15 @@ The Dwengo logo consists of the lowercase word 'dwengo' with a green inverted 'e
 * Completely white version for use in other contexts where colour is not available or not approriate:
 ![logo for light background](dwengo-wit-wit.png)
 
+Dwengo colors
+--------------
+
+Below you can find the official dwengo colors. Specific projects may have their own color scheme.
+
+### Official dwengo color
+
+<div style="color: white; background-color: rgb(133, 196, 65); height: 50px">Main color (R = 133, G = 196, B = 65) or (C = 53, M = 0, Y = 100, k = 0)</div>
+
 Project logos
 --------------
 
